@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenCV on Abbas Rizvi</title>
+    <link>/tags/opencv/</link>
+    <description>Recent content in OpenCV on Abbas Rizvi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Website - Hugo</title>
+      <link>/blog/radon/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/radon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radon Barcode CBIR</title>
+      <link>/projects/radon/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/radon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

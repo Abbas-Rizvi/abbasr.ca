@@ -1,3 +1,46 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "/"
+enableEmoji = true
+languageCode = "en-us"
+theme = "hugo-xmin"
+title = "Abbas Rizvi"
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+
+
+[[menu.feed]]
+name = "rss"
+url = "/index.xml"
+
+[params]
+footer = "Abbas Rizvi | [abbasr.ca](/) | [Github](https://github.com/abbas-rizvi/)"
