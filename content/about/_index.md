@@ -26,8 +26,13 @@ I am constantly seeking to expand my knowledge base and work on learning new ski
 
 ## About This Website
 
-This website was created to act as a hub for all my activities online. Whether that be new projects or blogs, I felt that it was imperative I had my own place to 
+This website was created to act as a hub for all my activities online. Whether
+that be new projects or blogs, I wanted a place to post content freely.
 
-I created this site using [Hugo](https://gohugo.io/) with a modified version of the [XMin Theme](https://github.com/yihui/hugo-xmin). I decided to take a more minimilist approach, because I found that it was a good balance between functionality and simplicity. Read more on my 
+I created this site using [Hugo](https://gohugo.io/) with a modified version of
+the [XMin Theme](https://github.com/yihui/hugo-xmin). I decided to take a more
+minimilist approach, because I found that it was a good balance between
+functionality and simplicity.
 
-I plan to continue adding on to the site with new features such as an email and git server, along with semi-regular blogs.
+I plan to continue adding on to the site with new features such as an email and
+git server, along with semi-regular blogs.
