@@ -43,6 +43,14 @@
   </url><url>
     <loc>/about/</loc>
   </url><url>
+    <loc>/blog/first/</loc>
+  </url><url>
+    <loc>/blog/</loc>
+  </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/hugo/</loc>
+  </url><url>
+    <loc>/tags/server/</loc>
   </url>
 </urlset>

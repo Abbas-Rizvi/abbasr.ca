@@ -34,5 +34,15 @@
       <description></description>
     </item>
     
+    <item>
+      <title>An Intro to the New AbbasR.ca</title>
+      <link>/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/first/</guid>
+      <description>I&amp;rsquo;ve talked about it a little in my about page but I wanted to elaborate a little bit more on what I actually am trying to accomplish through this site.
+Essentially I created this site for three main reasons: Reason 1) Project Portfolio While github is useful for showing projects and code with readme files, I felt that it would also be good to have them all up in another place as well for more ease of reading and possibly online hosting.</description>
+    </item>
+    
   </channel>
 </rss>
