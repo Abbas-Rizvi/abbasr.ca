@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Abbas Rizvi dwadwa
+# Abbas Rizvi
 
 Welcome to my Website!
 
