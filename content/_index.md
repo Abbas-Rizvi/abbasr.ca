@@ -16,8 +16,7 @@ applications.
 
 I'm interested in a wide range of technologies and enjoy exploring and learning
 about different topics. Read about some of the projects I created on the 
-[projects](/projects) or take a look at the new series of [blogs](/blog) I'm
-just starting.
+[projects](/projects).
 
 This website is self-hosted and I plan to rollout a variety of services over
 time both for myself and maybe even others. This website will forever be a work
